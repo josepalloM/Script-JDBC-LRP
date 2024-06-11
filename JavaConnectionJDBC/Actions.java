@@ -19,25 +19,25 @@ public class Actions
 	public int init() throws Throwable {
 		
 		
-		// Configuración de la conexión
-        String jdbcURL = "jdbc:postgresql://172.20.196.3:5432/gestion_clientes";
-        String username = "davidp";
-        String password = "davidCT2015.";
+		// ConfiguraciÃ³n de la conexiÃ³n
+        String jdbcURL = "jdbc:postgresql://HOST_CONNECTION:5432/data_base";
+        String username = "USER_CONNECTION";
+        String password = "PASSWORD_CONNECTION";
         
         try{
         	// Registrar el controlador JDBC
         	Class.forName("org.postgresql.Driver");
             
-        	lr.start_transaction("TRX01Conexión");
+        	lr.start_transaction("TRX01ConexiÃ³n");
         	// Conectar a la base de datos
         	connection = DriverManager.getConnection(jdbcURL, username, password);
-        	lr.end_transaction("TRX01Conexión", lr.AUTO);
+        	lr.end_transaction("TRX01ConexiÃ³n", lr.AUTO);
             
-        	// Confirmar la conexión
-        	System.out.println("Conexión exitosa a la base de datos");
+        	// Confirmar la conexiÃ³n
+        	System.out.println("ConexiÃ³n exitosa a la base de datos");
         	
         } catch (ClassNotFoundException e) {
-            System.out.println("No se encontró el controlador JDBC");
+            System.out.println("No se encontrÃ³ el controlador JDBC");
             e.printStackTrace();
         }
                 
@@ -49,7 +49,7 @@ public class Actions
 				
         try {
 
-            // Crear una declaración
+            // Crear una declaraciÃ³n
             Statement statement = connection.createStatement();
 
             // Ejecutar una consulta
@@ -70,7 +70,7 @@ public class Actions
             statement.close();
 
         } catch (SQLException e) {
-            System.out.println("Error de conexión a la base de datos");
+            System.out.println("Error de conexiÃ³n a la base de datos");
             e.printStackTrace();
         } 
 		
@@ -80,11 +80,11 @@ public class Actions
 
 	public int end() throws Throwable {
 		
-        // Cerrar la conexión
+        // Cerrar la conexiÃ³n
         if (connection != null) {
             try {
                 connection.close();
-                System.out.println("Conexión cerrada");
+                System.out.println("ConexiÃ³n cerrada");
             } catch (SQLException e) {
                 e.printStackTrace();
             }
