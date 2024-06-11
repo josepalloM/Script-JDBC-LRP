@@ -1,0 +1,84 @@
+Notify: search current JDK in Windows registry at (HKEY_LOCAL_MACHINE/SOFTWARE\JavaSoft\JDK\)
+Notify: JDK found at C:/Program Files/Java/jdk-17/bin/javaw.exe
+Virtual User Script started at: 11/6/2024 9:50:56
+Starting action vuser_init.
+Actions.java(31): Notify: Transaction "TRX01Conexión" started.
+Actions.java(34): Notify: Transaction "TRX01Conexión" ended with a "Pass" status (Duration: 1,0705).
+Actions.java(37): Notify: System.out: Conexión exitosa a la base de datos
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Actions.
+Actions.java(58): Notify: Transaction "TRX02Consulta" started.
+Actions.java(60): Notify: Transaction "TRX02Consulta" ended with a "Pass" status (Duration: 0,0481).
+Actions.java(65): Notify: System.out: Resultado de la consulta: 555-1234
+Ending action Actions.
+Ending iteration 1.
+Starting iteration 2.
+Starting action Actions.
+Actions.java(58): Notify: Transaction "TRX02Consulta" started.
+Actions.java(60): Notify: Transaction "TRX02Consulta" ended with a "Pass" status (Duration: 0,0305).
+Actions.java(65): Notify: System.out: Resultado de la consulta: 555-1234
+Ending action Actions.
+Ending iteration 2.
+Starting iteration 3.
+Starting action Actions.
+Actions.java(58): Notify: Transaction "TRX02Consulta" started.
+Actions.java(60): Notify: Transaction "TRX02Consulta" ended with a "Pass" status (Duration: 0,0313).
+Actions.java(65): Notify: System.out: Resultado de la consulta: 555-1234
+Ending action Actions.
+Ending iteration 3.
+Starting iteration 4.
+Starting action Actions.
+Actions.java(58): Notify: Transaction "TRX02Consulta" started.
+Actions.java(60): Notify: Transaction "TRX02Consulta" ended with a "Pass" status (Duration: 0,0300).
+Actions.java(65): Notify: System.out: Resultado de la consulta: 555-1234
+Ending action Actions.
+Ending iteration 4.
+Starting iteration 5.
+Starting action Actions.
+Actions.java(58): Notify: Transaction "TRX02Consulta" started.
+Actions.java(60): Notify: Transaction "TRX02Consulta" ended with a "Pass" status (Duration: 0,0305).
+Actions.java(65): Notify: System.out: Resultado de la consulta: 555-1234
+Ending action Actions.
+Ending iteration 5.
+Starting iteration 6.
+Starting action Actions.
+Actions.java(58): Notify: Transaction "TRX02Consulta" started.
+Actions.java(60): Notify: Transaction "TRX02Consulta" ended with a "Pass" status (Duration: 0,0320).
+Actions.java(65): Notify: System.out: Resultado de la consulta: 555-1234
+Ending action Actions.
+Ending iteration 6.
+Starting iteration 7.
+Starting action Actions.
+Actions.java(58): Notify: Transaction "TRX02Consulta" started.
+Actions.java(60): Notify: Transaction "TRX02Consulta" ended with a "Pass" status (Duration: 0,0304).
+Actions.java(65): Notify: System.out: Resultado de la consulta: 555-1234
+Ending action Actions.
+Ending iteration 7.
+Starting iteration 8.
+Starting action Actions.
+Actions.java(58): Notify: Transaction "TRX02Consulta" started.
+Actions.java(60): Notify: Transaction "TRX02Consulta" ended with a "Pass" status (Duration: 0,0294).
+Actions.java(65): Notify: System.out: Resultado de la consulta: 555-1234
+Ending action Actions.
+Ending iteration 8.
+Starting iteration 9.
+Starting action Actions.
+Actions.java(58): Notify: Transaction "TRX02Consulta" started.
+Actions.java(60): Notify: Transaction "TRX02Consulta" ended with a "Pass" status (Duration: 0,0310).
+Actions.java(65): Notify: System.out: Resultado de la consulta: 555-1234
+Ending action Actions.
+Ending iteration 9.
+Starting iteration 10.
+Starting action Actions.
+Actions.java(58): Notify: Transaction "TRX02Consulta" started.
+Actions.java(60): Notify: Transaction "TRX02Consulta" ended with a "Pass" status (Duration: 0,0308).
+Actions.java(65): Notify: System.out: Resultado de la consulta: 555-1234
+Ending action Actions.
+Ending iteration 10.
+Ending Vuser...
+Starting action vuser_end.
+Actions.java(87): Notify: System.out: Conexión cerrada
+Ending action vuser_end.
+Vuser Terminated.

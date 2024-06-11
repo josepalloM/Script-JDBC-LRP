@@ -1,0 +1,31 @@
+Info: System properties were logged.
+Info: Started, waiting for connections...
+Info: New connection accepted.
+Info: NO of clients are: 1
+Info: [Client 1]: Received function call: CreateScriptInstance
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: init
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: action
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: action
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: action
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: action
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: action
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: action
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: action
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: action
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: action
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: action
+Info: [Client 1]: Received function call: "RunScriptMethod"
+Info: [Client 1]: end
+Info: [Client 1]: Disconnected
+Info: NO of clients are: 0

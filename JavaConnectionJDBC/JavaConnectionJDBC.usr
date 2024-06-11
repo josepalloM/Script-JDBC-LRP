@@ -1,0 +1,60 @@
+[General]
+Type=Java_protocols
+DefaultCfg=default.cfg
+LastActiveAction=Actions
+MajorVersion=24
+MinorVersion=1
+ParameterFile=
+GlobalParameterFile=
+RunType=Java-Interpreter
+NewFunctionHeader=1
+ActionLogicExt=action_logic
+ScriptLanguage=JAVA
+DevelopTool=Vugen
+LastModifyVer=24.1.0.0
+ActiveTypes=Java_protocols
+AdditionalTypes=Java_protocols
+GenerateTypes=Java_protocols
+ParamLeftBrace={
+ParamRightBrace=}
+LastCodeGenerationVer=
+DisableRegenerate=0
+Encoding=
+Description=
+ScriptLocale=es-EC
+[Actions]
+vuser_init=vuser_init.java
+Actions=Actions.java
+vuser_end=vuser_end.java
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[RunLogicFiles]
+Default Profile=default.usp
+[Modified Actions]
+vuser_init=0
+Actions=1
+vuser_end=0
+[Recorded Actions]
+vuser_init=0
+Actions=0
+vuser_end=0
+[Replayed Actions]
+vuser_init=1
+Actions=1
+vuser_end=1
+[Interpreters]
+vuser_init=Java-Interpreter
+Actions=Java-Interpreter
+vuser_end=Java-Interpreter
+[TransactionsOrder]
+Order="TRX01Conexión__*delimiter*__TRX02Consulta"
+[StateManagement]
+LastReplayStatus=1
+[ActiveReplay]
+LastReplayedRunName=
+ActiveRunName=
+[Transactions]
+TRX01Conexión=
+TRX02Consulta=

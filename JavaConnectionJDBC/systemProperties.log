@@ -1,0 +1,72 @@
+SYSTEM PROPERTIES: 
+java.specification.version = 17
+sun.cpu.isalist = amd64
+sun.jnu.encoding = Cp1252
+java.class.path = C:/Users/SAGGA-SERVICIOS/Documents/VuGen/JavaConnectionJDBC/;C:/Program Files (x86)/OpenText/LoadRunner/classes;C:/Program Files (x86)/OpenText/LoadRunner/classes/srv;C:/Program Files (x86)/OpenText/LoadRunner/classes/srv/additional_classes;;C:/Program Files (x86)/OpenText/LoadRunner/lib/xstream-1.4.20.jar;C:/Program Files (x86)/OpenText/LoadRunner/lib/xpp3-1.1.4c.jar;C:/Program Files (x86)/OpenText/LoadRunner/lib/common-java-rr.jar;C:/JAVA/postgresql-42.7.3.jar;;C:/Program Files (x86)/OpenText/LoadRunner/lib/FlatBuf-1.0-SNAPSHOT.jar;C:/Program Files (x86)/OpenText/LoadRunner/lib/MFJavaServer-1.0-SNAPSHOT.jar;
+java.vm.vendor = Oracle Corporation
+mf.isReplay = true
+sun.arch.data.model = 64
+user.variant = 
+java.vendor.url = https://java.oracle.com/
+java.vm.specification.version = 17
+os.name = Windows 11
+sun.java.launcher = SUN_STANDARD
+user.country = EC
+sun.boot.library.path = C:\Program Files\Java\jdk-17\bin
+com.hpe.lr.java2.record.scriptDir = C:/Users/SAGGA-SERVICIOS/Documents/VuGen/JavaConnectionJDBC
+sun.java.command = mf.server.Main 55600 JavaRR vugen
+jdk.debug = release
+sun.cpu.endian = little
+user.home = C:\Users\SAGGA-SERVICIOS
+user.language = es
+java.specification.vendor = Oracle Corporation
+script.useDedicatedCl = false
+java.version.date = 2024-01-16
+java.home = C:\Program Files\Java\jdk-17
+script.properties = cfgpp=C:/Users/SAGGA-SERVICIOS/Documents/VuGen/JavaConnectionJDBC/default.cfg
+lr_bin_dir=C:/Program Files (x86)/OpenText/LoadRunner/bin
+lr_dat_dir=C:/Program Files (x86)/OpenText/LoadRunner/dat
+lr_root_dir=C:/Program Files (x86)/OpenText/LoadRunner
+lr_usr_dir=C:/Users/SAGGA-SERVICIOS/Documents/VuGen/JavaConnectionJDBC
+mode_debug=
+out=C:/Users/SAGGA-SERVICIOS/Documents/VuGen/JavaConnectionJDBC/
+product_name=vugen
+temp_dir=
+usr=C:/Users/SAGGA-SERVICIOS/Documents/VuGen/JavaConnectionJDBC/JavaConnectionJDBC.usr
+
+file.separator = \
+java.vm.compressedOopsMode = Zero based
+line.separator = 
+
+java.vm.specification.vendor = Oracle Corporation
+java.specification.name = Java Platform API Specification
+user.script = 
+sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+java.runtime.version = 17.0.10+11-LTS-240
+java.net.preferIPv4Stack = true
+user.name = SAGGA-SERVICIOS
+path.separator = ;
+os.version = 10.0
+java.security.policy = C:/Program Files (x86)/OpenText/LoadRunner/classes/security/recorder.policy
+java.runtime.name = Java(TM) SE Runtime Environment
+file.encoding = Cp1252
+mdrv.launcher = 1
+java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+java.vendor.url.bug = https://bugreport.java.com/bugreport/
+java.io.tmpdir = C:\Users\SAGGA-~1\AppData\Local\Temp\
+java.version = 17.0.10
+user.dir = C:\Users\SAGGA-SERVICIOS\Documents\VuGen\JavaConnectionJDBC
+os.arch = amd64
+java.vm.specification.name = Java Virtual Machine Specification
+sun.os.patch.level = 
+native.encoding = Cp1252
+java.library.path = C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\OpenText\LoadRunner\Bin;C:\Program Files (x86)\OpenText\LoadRunner\Bin\tulip\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\OpenText\NV\lib\shunra\vcat;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_202\bin;C:\Program Files\Fortify\Fortify_Apps_and_Tools_23.1.0\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\SAGGA-SERVICIOS\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\OpenText\LoadRunner\bin\Silk\Silk Performer 21.0;C:\Program Files (x86)\OpenText\UFT One\bin;C:\Users\SAGGA-SERVICIOS\AppData\Local\Microsoft\WindowsApps;C:\Users\SAGGA-SERVICIOS\.dotnet\tools;C:\Users\SAGGA-SERVICIOS\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\SAGGA-SERVICIOS\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Azure Data Studio\bin;C:\Users\SAGGA-SERVICIOS\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\bin;;.
+java.vm.info = mixed mode, sharing
+java.vendor = Oracle Corporation
+java.vm.version = 17.0.10+11-LTS-240
+sun.io.unicode.encoding = UnicodeLittle
+java.class.version = 61.0
+END OF SYSTEM PROPERTIES
+
+
+
